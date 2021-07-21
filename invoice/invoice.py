@@ -3,13 +3,6 @@ import numpy as np
 import io
 from PIL import Image
 import traceback
-from tqdm.notebook import tqdm
-
-import os, re
-import numpy as np
-import io
-from PIL import Image
-import traceback
 
 import gc
 import pytesseract
